@@ -6,4 +6,4 @@ However, that period in my life also made me start "Listen,", which is, to date,
 
 I will never be able to accurately explain what Tel Aviv, and the years I spent living there, meant to me. It is the only mystical connection I will ever allow myself. The city was my home, my brain, my god, my canvas, my living room, my lungs. "Listen," is about what it feels like to be away from it, to come back to it, to live in it, and to lose it. It's also above love and memory and loss and animals and many other things besides.
 
-The site was built using 11ty and the start template [Grease](https://github.com/adamstddrd/grease).
+The site was built using 11ty and the starter template [Grease](https://github.com/adamstddrd/grease).
