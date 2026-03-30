@@ -112,7 +112,8 @@
 
 	&.--point-left::before,
 	&.--point-right::before,
-	&.--point-down::before {
+	&.--point-down::before,
+	&.--point-up::before {
 		content: "";
 		inline-size: 1em;
 		block-size: 1em;
@@ -122,13 +123,16 @@
 	}
 
 	&.--point-left::before {
-		rotate: 180deg;
+		rotate: 270deg;
 	}
 	&.--point-down::before {
 		rotate: 90deg;
 	}
 	&.--point-none::before {
 		content: none;
+	}
+	&.--point-up::before {
+		content: 90deg;
 	}
 
 	& svg {

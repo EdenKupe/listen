@@ -1,14 +1,26 @@
 ---
-title: Grease
+title: Listen, An Ongoing Series
 description: Grease takes the friction out of building fast, adaptable, aesthetic websites.
 layout: base.html
-# noindex: true
-# canonical: https://example.com/page.html
-permalink: false
+eleventyImport:
+  collections: ["main"]
 ---
 
-{% comment %}
-  Build your real homepage here, but make sure you delete the `permalink: false` line above, and in /docs/index.html.
+<header id="header" class="sticky top-0 grid">
+  <nav class="flex gap-xs align-items-center justify-between">
+    <div class="docs-nav-group flex gap-xs">
+      <a class="button --point-left --subtle --primary shadow-md" href="#"><span class="sr-only">back</span></a>
+    </div>
+    {% render "docs/theme-picker.html" modes: modes, themes: themes %}
+    </nav>
+</header>
 
-  That way, you still have the docs and kitchen sink at /docs while you build out your site. The kitchen sink is a helpful tool for seeing all the changes you make in one place!
-{% endcomment %}
+<main class="grid">
+
+  <h1 class="hero">Listen, An Ongoing Series</h1>
+  <article class="line-length-lg">
+  {%- for post in collections.main -%}
+        {{ post.content }}
+      {%- endfor -%}
+  </article>
+</main>

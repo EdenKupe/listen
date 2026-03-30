@@ -38,6 +38,7 @@ h2 {
 h3 {
 	font-size: var(--font-size-lg);
 	font-weight: var(--font-weight-xl);
+	color: var(--color-link);
 }
 
 :where(h4, h5, h6) {
@@ -56,6 +57,10 @@ h3 {
 
 :where(a, li, dd, strong, em, i, mark) {
 	color: inherit;
+}
+
+p strong {
+	color: var(--color-accent);
 }
 
 :where(ul:not([class]), ol:not([class])) {
