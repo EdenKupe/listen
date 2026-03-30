@@ -10,7 +10,7 @@ I will never be able to accurately explain what Tel Aviv, and the years I spent 
 
 More than anything, "Listen," is long. <a onclick="randomLink(event)" href="#">Click here</a> for a random entry.
 
-Thank you for reading. I love you.
+Thank you for reading. <span class="strong-love"><span class="strong-love">I love you</span></span>.
 
 <h3>4.27.2018</h3>
 
@@ -22,7 +22,7 @@ Thank you for reading. I love you.
 
 I don't know what to do with any of this but I know that coming to terms with the poison of knowledge, with the pain of leaving, with the suspension of life, is the only way I can keep living. So that's what I'll try and do. I don't know if this is for you or good for you. I don't even know if this is for me or good for me. But it's what I have, it's the flimsy embankment on which I rebuilt my life after it fell apart. That is, my relationship with these ideas and feelings, not the ideas and feelings themselves, are the embankment. My position towards them is the foundation; a shift of the shoulder, a setting of the chest forward, a reaching of the neck, an intention towards.
 
-I hope you're doing OK. I love you.
+I hope you're doing OK. <span class="strong-love">I love you</span>.
 
 **<h3>4.28.2018</h3>**
 
@@ -34,7 +34,7 @@ I hope you're doing OK. I love you.
 
 Thus, we converse on this, our road, you and I. Friends by virtue of the bus, of the inexorable direction in which our lives always hurtle in. Time's cruise control; eternity's flight path; the beginning's itinerary; the end's blueprint.
 
-We're going home baby. It's going to be OK. I love you.
+We're going home baby. It's going to be OK. <span class="strong-love">I love you</span>.
 
 **<h3>7.7.2018</h3>**
 
@@ -44,7 +44,7 @@ We're going home baby. It's going to be OK. I love you.
 
 **Listen.** We learn, alright? We can't help it. I wish there was some way for us to stop. I wish there was some way to get off of this road surrounded by potsherds, surrounded by the dismantled actions, memories and intentions of everyone else that suffered through this thing called life but there isn't such a way. Listen, one day I'll learn how to die and you will too and we will all stop. And that will be a good day. I'm afraid. But that will be a good day. There will be a laying down of burdens that day and there will be an end that day and there will be a road a bit less dusty with the detritus of life. And we can make that day happen, you and I, because we are friends. We can reach in together into the laces of the lattice work called our relationship and we can help each other carry just a bit less. Will you let me show you how? Will you show me how? How to care a bit less, how to cry a bit more, how to feel a love that has no bounds in my heart, how to feel it as a warm fuzz behind my eyes whenever I see you, how to get lost inside your hug? Will you teach me how to lose myself in you and will you teach me how to find myself again? Will you teach me how to be a friend?
 
-**Listen.** I don't yet know exactly how to go home but I know you'll show me the way one day. Take your time.I know that one day you will show me a silver path through a forest and I will smile and take it gladly. And that's why I love you. Because even though the day has not yet come for you to teach me, I know you'll one day do it. One day, you will show me the way out and I'll grab your hand and say "hey. thank you. I love you. Let's go".
+**Listen.** I don't yet know exactly how to go home but I know you'll show me the way one day. Take your time.I know that one day you will show me a silver path through a forest and I will smile and take it gladly. And that's why <span class="strong-love">I love you</span>. Because even though the day has not yet come for you to teach me, I know you'll one day do it. One day, you will show me the way out and I'll grab your hand and say "hey. thank you. <span class="strong-love">I love you</span>. Let's go".
 
 And we'll go back home. Don't forget to tie your shoes. I'll do my own.
 
@@ -58,7 +58,7 @@ And we'll go back home. Don't forget to tie your shoes. I'll do my own.
 
 Friend, have you ever felt the flame that is recognizing an other? Have you ever suddenly had your perspective zoom out and saw all the points of fire surrounding you and knew them for yourself? Whether you have or not, something you said, something you did, a posture you took, a wisdom you gave, a gesture you made, led someone else to that place. That cliff side above and beneath and inside where no one with armor can come, where we must stand alone and shivering in front of a flame, cold for the heat, alone for the company, hurting for the cure, surrounded and yet singular. Even if you've never been yourself you have brought someone there.
 
-And for that, I will always love you.
+And for that, <span class="strong-love">I will always love you</span>.
 
 **<h3>12.7.2018</h3>**
 
@@ -68,7 +68,7 @@ And for that, I will always love you.
 
 **Listen**. It's done but it's not done *yet*. There are still hundreds of heavy steps to take in the street, plodding along towards light. There are still a thousand content sighs to utter, sheltered in warmth. There are still a million gestures to make, while beautiful words spill from our mouths and move our hearts. There are still a billion little ways to move our face, our hands, our legs, our blood, our hair, there is still an infinity of moments in which to fall in love, to cry out in pain, to cry deeply from love, to have our breath snatched away, to have our ears sing with the sounds which bombard it. It's done but it's not done *yet* and until it's done, I'd like to spend my time with you. There are still hundreds of doorways filled with soft light, still a thousand windows spilling over with memories, still a million broken rays of light, still an infinity of memories to make. And when the time comes for what is already done to be done, we'll hold each other tight.
 
-Hey. I love you. We're all going to die. It's going to be alright.
+Hey. <span class="strong-love">I love you</span>. We're all going to die. It's going to be alright.
 
 **<h3>12.20.2018</h3>**
 
@@ -96,7 +96,7 @@ Hey. I love you. We're all going to die. It's going to be alright.
 
 But most of all, I cried for you, suffering. I cried for you, waiting. I cried for you, dying. I cried for you, reading. I cried for you, sacrificing. I cried for you, lost.
 
-I love you.
+<span class="strong-love">I love you</span>.
 
 **<h3>28.1.2020</h3>**
 
@@ -108,7 +108,7 @@ I love you.
 
 **Listen**. If I could lose myself in heat why can't I lose myself in the jackal? If I could give myself to the boxes why can't I give myself to the jackal? If I could un-recoil from my fellow human why can't I un-recoil from my fellow organism? Or is the secret more fucked up, curling cruelly on the question just asked and re-configuring it: could I really un-recoil from my fellow human? Am I more distant from the jackal, as he/I bound away, skittering into the night of shared(?) terror and pain, than I am from a man? Just because I once gave myself away with a few of them to a machine-angel, just because I felt my flesh sloughing away and joining with theirs, just because we applied ourselves together not to a task but to a becoming to a purpose to an ending to a time-limit to a deadline to exertion to exhaustion to a red haze that descended upon us all as if sent by a god suddenly focused on our deeds a god spurned to action by alacrity and skill and desire? Or is the secret, coiled crudely around the question, that the same gulf exists and is created not because of body, not because of species, but because of being alive?
 
-**Listen**. I love you. A distance impossible stands before us and I love you and have always loved you and will always love you.
+**Listen**. <span class="strong-love">I love you</span>. A distance impossible stands before us and <span class="strong-love">I love you and have always loved you and will always love you</span>.
 
 But can we love the jackal?
 
@@ -124,7 +124,7 @@ But can we love the jackal?
 
 **Listen**. There's a burden that's about to lift, there's a task we're about to complete, there's a routine that will finally stop, there's a song we're meant to sing, there's a star out there that not only has your name on it but has my name on it, that has the name of everyone that ever was and that ever will be and it's not one star it's all the stars and they're singing, singing our names into an endless night, calling to us to lay down to go to sleep to rest to awake to light up to celebrate to simmer to join the fox and the jackal to cry out with the song of the flower to raise our hands and, not knowing what we do or what we speak of, to recite the words that are etched across our every cell, there right next to our heart, there right next our bones, there right next to our life.
 
-**Listen**. I love you. Happy summer solstice. 
+**Listen**. <span class="strong-love">I love you</span>. Happy summer solstice. 
 
 **<h3>11.10.2020</h3>**
 
@@ -159,11 +159,11 @@ But can we love the jackal?
 
 **Listen**. Picture the irradiated swamp that now lives where once that copse of tripartite trees now stand. Sure, there is green-yellow bile which washes up on its modest, corrosive shore. But it still rains there, do you see? Even here, even now, even through all of the things that have come to pass, it still rains here. Do the animals that still call this place home take comfort in that? That is a lie you tell yourself, as if these animals concern you; as if there is any way for you to feel kinship with them in some way. If you're being honest, the rain falls then but it's really falling for you, now. It's a construct we have built together (and have continued to build) to take our mind of the swamp even as we help build it.
 
-**Listen**. Now, there are three trees and two women are looking at them. You see their gaze, you see their wonder. You see the pink and white flowers adorning the branches and, suddenly, you feel the full range of human emotions. OK, not the full range but it feels like the full range; the joy within you pings off of their eyes and back on to the tree before it makes its way back to your heart. From whence it takes flight once again, transformed now into hope and happiness, and hums around you like a faint aura only you can see, a sort of self-clarvoyance that you get when you find yourself in these moments. An old poem comes to you: "The sun has burst the sky, because I love you" and you smile. You see the old woman smile and you remember your grandmother(s). You know they smile as well. You remember them smiling. They are not smiling because of a poem but they might as well be. They might as well be.
+**Listen**. Now, there are three trees and two women are looking at them. You see their gaze, you see their wonder. You see the pink and white flowers adorning the branches and, suddenly, you feel the full range of human emotions. OK, not the full range but it feels like the full range; the joy within you pings off of their eyes and back on to the tree before it makes its way back to your heart. From whence it takes flight once again, transformed now into hope and happiness, and hums around you like a faint aura only you can see, a sort of self-clarvoyance that you get when you find yourself in these moments. An old poem comes to you: "The sun has burst the sky, because <span class="strong-love">I love you</span>" and you smile. You see the old woman smile and you remember your grandmother(s). You know they smile as well. You remember them smiling. They are not smiling because of a poem but they might as well be. They might as well be.
 
 **Listen**. Yes, when you zoom out from the swamp in your mind (as I am asking/causing you to do now), devestation lies all around. But there's a wind playing in the remenants of the trees. There's a sound that's a composite, that's a lack, that's the background hum of things. There ground does not thrum; the sky does not scream. The smoke rises lazily towards the occluded sky and yes, the sun is not there but you know that it is. Rising now above the clouds, you see the true rain, the true cold, the true hum in the background of things: you see the stars. Often, when you have heard them described, people have said that the stars "burn on" but this is meaningless to you. For your perspective, from our perspective, the stars do not burn. The stars intrude. The stars look on. The stars peek. The stars contextualize. And so they do.
 
-**Listen**. What is left for monsters but to imagine their victims surviving them? In spite of everything, I love you.
+**Listen**. What is left for monsters but to imagine their victims surviving them? In spite of everything, <span class="strong-love">I love you</span>.
 
 **<h3>23.7.2021</h3>**
 
@@ -177,7 +177,7 @@ But can we love the jackal?
 
 **Listen**. What passes between us is the realization that fear does not exist. What passes between us, sitting here on a hill, basking in the light which shines from the very fact that others exist, is the realization that the only thing which exists is love.
 
-I love you.
+<span class="strong-love">I love you</span>.
 
 **<h3>19.9.2021</h3>**
 
@@ -189,7 +189,7 @@ I love you.
 
 **Listen**. To think that a miracle requires divinity is to misunderstand the recipient of the message for its sender. Miracles care nothing for the one who causes them; they are ambivalent to their creature. Miracles are all about those they serve and those for whom they are created. Therefore, their creator is unnecessary. Yes, they might exist. But what difference does it make? What does it matter from where the manna comes from when all you can think about is that you're no longer hungry? From whence comes the dove with the olive branch? Who cares? All that matters is that the promise that the sea, the endless, cursed, salted, sterile sea, might one day end. This is what's collected in my concrete oases: miracles. They might have been created in the urban forge, wrought by fires that are stoked by the energy released each by tens of thousands of footsteps on the main street. I might have sent them to myself, like a missive that pings around the world only to gently kiss you on the back of your head is it returns. They, my miracles, might be conjured by a wizard, or created by a god, or written by a poet, but what matters it that they are my miracles, don't you see? What matters is that the water flows onto my forehead, the breeze strokes my shoulders, the broken shadows of the leaves dance upon my face, and cruel summer and cruel seas and the never-ending sigil of the freeway is banished.
 
-**Listen**. Do you see? What matters is not that you're reading this. What matters is that I love you and you, I know, I can tell, I can feel, you love me. What matters is that there's a place beyond the sea. The song of doves surrounds us when we embrace. In your voice I hear their feathers fluttering. In your smile I smell the olive branch. In your eyes I can read the message, the miracle, the song, the prophecy, that the sea is about to end.
+**Listen**. Do you see? What matters is not that you're reading this. What matters is that <span class="strong-love">I love you</span> and you, I know, I can tell, I can feel, you love me. What matters is that there's a place beyond the sea. The song of doves surrounds us when we embrace. In your voice I hear their feathers fluttering. In your smile I smell the olive branch. In your eyes I can read the message, the miracle, the song, the prophecy, that the sea is about to end.
 
 **<h3>2.1.2022</h3>**
 
@@ -203,7 +203,7 @@ I love you.
 
 **Listen**. Beyond the salt, the cleansing acridity, the aquatic sulfur, the distant sea, beneath the dirt, the storing solidity, the musty petrichor, the distant earth, I know, I can tell, I can feel, I can remember, I can recount, I sense, that you love me.
 
-And I, I love you too.
+And I, <span class="strong-love">I love you</span> too.
 
 **<h3>23.2.2022</h3>**
 
@@ -219,7 +219,7 @@ And I, I love you too.
 
 **Listen**. I sing of you.
 
-I love you.
+<span class="strong-love">I love you</span>.
 
 **<h3>20.6.2022</h3>**
 
@@ -233,7 +233,7 @@ I love you.
 
 **Listen**. We are only here to figure out how to stop. We are here to figure out how to stretch our neck. We are here to figure out how to make of our heart a kindling so that the spark of others lights us like a bonfire, celebrating the sky.
 
-**Listen**. I am only here to tell you that I love you and to mean it.
+**Listen**. I am only here to tell you that <span class="strong-love">I love you</span> and to mean it.
 
 **<h3>31.7.2022</h3>**
 
@@ -257,7 +257,7 @@ I love you.
 
 **Listen**. In one iteration of the story, Merlin lives backwards and that seems to me to be the most wonderful blessing to have ever been envisioned. To get the absence out of the way, to embrace the disappearance of things, to pay the price of every single interaction before it begins, feels to me like the greatest freedom. Every building you encounter, every road you turn down to, every person you attempt, foolishly, to capture in your eye, begins with the obvious yet furiously ignored fact: one day, this too, shall pass. But is that not how I live anyway? Am I not be-Merlined? Opening every gift of encounter with glee only to feel, like a chipped tooth or a swirling bitterness at the bottom of a glass, the hidden going-away-of-things, the slow bleeding of presence, the inevitable, early, always-already starting retreat of whatever I meet?
 
-**Listen**. Of course I continue on. Of course there are more things to do. Of course I love you. But when I stare up at the moon and find it crescented in my direction, I can't help but feel that everything, every single thing, is slipping away from me and there's nothing I can do but try to hold on tighter to the night.
+**Listen**. Of course I continue on. Of course there are more things to do. Of course <span class="strong-love">I love you</span>. But when I stare up at the moon and find it crescented in my direction, I can't help but feel that everything, every single thing, is slipping away from me and there's nothing I can do but try to hold on tighter to the night.
 
 **<h3>22.6.2023</h3>**
 
@@ -269,7 +269,7 @@ I love you.
 
 **Listen**. Elsewhere, conversations unfurl between eager mouths, eyes dreaming of embrace, stomachs hoping for release, skin longing for validation. This tension spins off into momentums, goodbyes and first-meetings, deepenings and relaxations that pock the city like a thousand gravity wells, trapping and then releasing all too familiar bodies across the sable trajectory of night.
 
-**Listen**. Somewhere in the city, the life of a cat ends. Elsewhere, life continues to whirl in its rags. And through it all, I love you, cat.
+**Listen**. Somewhere in the city, the life of a cat ends. Elsewhere, life continues to whirl in its rags. And through it all, <span class="strong-love">I love you</span>, cat.
 
 **<h3>10.8.2023</h3>**
 
@@ -279,11 +279,11 @@ I love you.
 
 **Listen**. This is the last iteration of Listen. I am leaving Tel Aviv, the place that has been my city for so long; my lung that is also a living room and a colosseum and a fever dream. This experiment of mine, this series of stories and ideas, started in exile from it and now it will end a moment before I leave for yet another, longer, exile from it. I am ending it by choice and also by no choice possible. It doesn't belong to me and it is one of the dearest things to my heart. I am killing it now so that it will forever be what it has always been and what there was no other choice for it to but to be: an ode to one of my favorite places on the Earth, inadvertently the city where I was born and where I have lived most of my life. Listen is over because my sojourn in Tel Aviv is over and even if it will, at some point in the future, be again and I shall return, we all know by now that there is no coming back home. The Tel Aviv that exists for me, right now, right here, is never coming back; the city where I've lived for twenty-odd years is gone because I am gone.
 
-**Listen**. Even though I leave, I love them all and I love you all. The parents, the family, the friends, the bartenders, the objects of unrequited passion, the street corners, the avenues, the ficuses, the heat, the humidity, the sea, the sea, the sea, the decrepit corners where individuals can bloom, the winding paths, the petering out cliffs, the needless traffic, the even more needless sprinklers, the darkened corners that hid me when I was drunk, the glaring light of day that showed me for what I am for so long. The jackals. Oh god, the jackals.
+**Listen**. Even though I leave, I love them all and <span class="strong-love">I love you</span> all. The parents, the family, the friends, the bartenders, the objects of unrequited passion, the street corners, the avenues, the ficuses, the heat, the humidity, the sea, the sea, the sea, the decrepit corners where individuals can bloom, the winding paths, the petering out cliffs, the needless traffic, the even more needless sprinklers, the darkened corners that hid me when I was drunk, the glaring light of day that showed me for what I am for so long. The jackals. Oh god, the jackals.
 
-**Listen**. I love you. I'm going forward. There is no coming back. Listen is over but I am always listening and I hope that you are listening too, listening to me saying how much I love you. Because I do. And not Listen or Tel Aviv or flight or distance or tears or words or anything else in the world will ever come even slightly close to how much I love you and how important that is.
+**Listen**. <span class="strong-love">I love you</span>. I'm going forward. There is no coming back. Listen is over but I am always listening and I hope that you are listening too, listening to me saying how much <span class="strong-love">I love you</span>. Because I do. And not Listen or Tel Aviv or flight or distance or tears or words or anything else in the world will ever come even slightly close to how much <span class="strong-love">I love you</span> and how important that is.
 
-**Listen**, for the last time: I love you.
+**Listen**, for the last time: <span class="strong-love">I love you</span>.
 
 
 

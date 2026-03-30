@@ -63,6 +63,11 @@ p strong {
 	color: var(--color-accent);
 }
 
+p .strong-love {
+	color: var(--color-link);
+	font-weight: var(--font-weight-xl)
+}
+
 :where(ul:not([class]), ol:not([class])) {
 	padding-inline-start: 1.75ch;
 }
