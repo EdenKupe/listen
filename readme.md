@@ -1,15 +1,9 @@
-# Grease
-Grease is a website starter for the modern web. Its goal is simple; provide a solid foundation for a fast and adaptable website that's enjoyable to build, and easy to maintain.
+# Listen, An Ongoing Series
 
-It combines a trio of fast, flexible tools ([11ty](https://www.11ty.dev/), [Lightning CSS](https://lightningcss.dev/), and [Esbuild](https://esbuild.github.io/)) with a simple, micro-management-free CSS architecture, and lightweight patterns that set you up for success. Highlights:
+Between 2016 and 2018, I was on around twenty transatlantic flights. I got on them for work, mostly. They changed my life irrevocably, in all sorts of ways; most of them were negative. My sense of place, of self, and of time was shattered from the constant dislocation. I developed a very strong feaer of flying. I felt unmoored, lost, stuck in a twilight land between time and space.
 
-- **Designed for in-browser design.**
-  Fast tools and a straightforward custom-property-powered composable CSS architecture makes designing in browser a joy, and scaffolding new pages *fast*.
-- **Expressive color.**
-  Grease includes a comprehensive color system that lets you easily support light & dark mode, custom themes, composable themes, and all of the above.
-- **Fluid type.**
-  A straightforward fluid type system makes it easy to keep your type game on point across a wide range of devices and screen sizes.
-- **Flexible bundling.**
-  Import everything into monolithic CSS and JS bundles? Break out page and section bundles? Inline critical CSS? All supported out of the box, zero configuration.
+However, that period in my life also made me start "Listen,", which is, to date, one of my favorite things I've ever worked on. "Listen," is a flash fiction suite, a series of snippets of thoughts, ideas, feelings, memories, and observations. I wrote it for almost exactly four years and eleven months. I stopped writing it because I moved away from Tel Aviv which, in retrospect, "Listen," was above.
 
-Visit [https://grease.aaadaaam.com](https://grease.aaadaaam.com) for docs and demos.
+I will never be able to accurately explain what Tel Aviv, and the years I spent living there, meant to me. It is the only mystical connection I will ever allow myself. The city was my home, my brain, my god, my canvas, my living room, my lungs. "Listen," is about what it feels like to be away from it, to come back to it, to live in it, and to lose it. It's also above love and memory and loss and animals and many other things besides.
+
+The site was built using 11ty and the starter template [Grease](https://github.com/adamstddrd/grease).
