@@ -4,6 +4,7 @@ description: A flash fiction work by Eden Kupermintz
 layout: base.html
 eleventyImport:
   collections: ["main"]
+modes: ["system", "dark", "light"]
 ---
 
 <header id="header" class="sticky top-0 grid">
@@ -11,7 +12,7 @@ eleventyImport:
     <div class="docs-nav-group flex gap-xs">
       <a class="button --point-left --subtle --primary shadow-md" href="#"><span class="sr-only">back</span></a>
     </div>
-    {% render "docs/theme-picker.html" modes: modes, themes: themes %}
+    {% render "docs/theme-picker.html" modes: modes%}
     </nav>
 </header>
 

@@ -2,7 +2,7 @@
 title: Listen,
 ---
 
-Between 2016 and 2018, I was on around twenty transatlantic flights. I got on them for work, mostly. They changed my life irrevocably, in all sorts of ways; most of them were negative. My sense of place, of self, and of time was shattered from the constant dislocation. I developed a very strong feaer of flying. I felt unmoored, lost, stuck in a twilight land between time and space.
+Between 2016 and 2018, I was on around twenty transatlantic flights. I got on them for work, mostly. They changed my life irrevocably, in all sorts of ways; most of them were negative. My sense of place, of self, and of time was shattered from the constant dislocation. I developed a very strong fear of flying. I felt unmoored, lost, stuck in a twilight land between time and space.
 
 However, that period in my life also made me start "Listen,", which is, to date, one of my favorite things I've ever worked on. "Listen," is a flash fiction suite, a series of snippets of thoughts, ideas, feelings, memories, and observations. I wrote it for almost exactly four years and eleven months. I stopped writing it because I moved away from Tel Aviv which, in retrospect, "Listen," was above.
 

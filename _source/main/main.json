@@ -1,5 +1,6 @@
 {
     "tags": ["main"],
+	"modes": ["system", "dark", "light"],
     "themes": [
 		"default",
 		"low-contrast",
