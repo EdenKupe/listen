@@ -19,7 +19,7 @@
       }
     </script>
 
-    <title>{% if title %}{{ title | escape }} | {% endif %}{{ site.title | escape }}</title>
+    <title>{{ site.title | escape }}</title>
 
     <meta name="description" content="{% if description %}{{ description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
