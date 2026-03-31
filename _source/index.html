@@ -24,4 +24,63 @@ modes: ["system", "dark", "light"]
         {{ post.content }}
       {%- endfor -%}
   </article>
-</main>
+<div class="sidebar-right">
+  <div class="sun-container">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" class="sun-svg">
+  <defs>
+    <mask id="horizon-mask">
+      <rect id="mask-reveal" x="0" y="0" width="100" height="0" fill="white" />
+      </mask>
+  </defs>
+
+  <line x1="0" y1="75" x2="100" y2="75" stroke="#ccc" stroke-width="0" />
+
+  <g mask="url(#horizon-mask)">
+    <circle class="sun-core" cx="50" cy="50" r="20" fill="#FF8C69" />
+  <g class="rays" stroke="#E07A5F" stroke-width="1.5" stroke-linecap="round">
+  <line x1="50" y1="10" x2="50" y2="25" /> 
+  <line x1="50" y1="75" x2="50" y2="90" /> 
+  <line x1="10" y1="50" x2="25" y2="50" /> 
+  <line x1="75" y1="50" x2="90" y2="50" /> 
+  
+  <line x1="21.7" y1="21.7" x2="32.3" y2="32.3" />
+  <line x1="67.7" y1="67.7" x2="78.3" y2="78.3" />
+  <line x1="21.7" y1="78.3" x2="32.3" y2="67.7" />
+  <line x1="78.3" y1="21.7" x2="67.7" y2="32.3" />
+
+  <line x1="34.7" y1="14.4" x2="40.4" y2="28.1" /> <line x1="65.3" y1="85.6" x2="59.6" y2="71.9" />
+  <line x1="14.4" y1="34.7" x2="28.1" y2="40.4" />
+  <line x1="85.6" y1="65.3" x2="71.9" y2="59.6" />
+  <line x1="65.3" y1="14.4" x2="59.6" y2="28.1" />
+  <line x1="34.7" y1="85.6" x2="40.4" y2="71.9" />
+  <line x1="85.6" y1="34.7" x2="71.9" y2="40.4" />
+  <line x1="14.4" y1="65.3" x2="28.1" y2="59.6" />
+</g>
+  </g>
+</svg>
+  </div>
+</div>
+
+<script>
+  const updateSun = () => {
+    const html = document.documentElement;
+    const maskRect = document.getElementById('mask-reveal');
+    const scrollPercent = html.scrollTop / (html.scrollHeight - html.clientHeight);
+    
+    // 1. Calculate Opacity (0 to 1 back to 0)
+    const opacity = 1 - Math.abs(scrollPercent - 0.5) * 1.1;
+    const clampedOpacity = Math.max(0, opacity);
+    html.style.setProperty('--sun-opacity', clampedOpacity);
+    
+    // 2. Animate Mask Height:
+    // When opacity is 1, height is 100 (Full reveal)
+    // When opacity is 0, height is 0 (Hidden)
+    if (maskRect) {
+      const newHeight = clampedOpacity * 100;
+      maskRect.setAttribute('height', newHeight);
+    }
+  };
+
+  window.addEventListener('scroll', updateSun);
+  window.addEventListener('DOMContentLoaded', updateSun);
+</script>

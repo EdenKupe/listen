@@ -1,0 +1,68 @@
+:root {
+  --scroll: 0;
+  --sun-opacity: 0;
+}
+
+/* Layout Setup */
+.sidebar-right {
+    grid-column-start: 11 !important;
+    grid-row-start: 2;
+    height: 100%;
+    position: sticky;
+}
+
+.sun-container {
+  position: sticky;
+  top: 30vh;           /* Adjust this to move the "horizon" up or down the screen */
+  height: 300px;       /* Fixed height gives the SVG a stable "stage" */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  overflow: hidden;    /* This hides the sun when it goes below the horizon line */
+}
+
+
+.sun-svg {
+  width: 150px;
+  opacity: var(--sun-opacity);
+  /* No more transforms needed here! */
+}
+
+@keyframes rotate-rays {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Pinkish Core Update
+   We set the initial color (dawn), and we can slightly 
+   shift it based on scroll percentage if desired.
+*/
+.sun-core {
+  fill: hsl(12, 100%, 71%); /* Lighter Pinkish Coral */
+}
+
+/* Subtle Glow updated to match new pinker colors */
+.sun-core {
+  filter: drop-shadow(0 0 10px rgba(255, 140, 105, var(--sun-opacity)));
+}
+
+/* Dull Orange Rays Update */
+.rays {
+  stroke: hsl(12, 60%, 62%); /* Fainter, muted orange */
+  transform-origin: center;
+  animation: rotate-rays 80s linear infinite; /* Slightly slower rotation */
+}
+
+/* Optional: Make the horizon line itself slightly dimmer when sun is weak */
+.horizon-line {
+  stroke-opacity: calc(var(--sun-opacity) + 0.3);
+}
+
+/* --- Tablet & Mobile Breakpoint --- */
+@media (max-width: 1024px) {
+  .sidebar-right {
+    /* No sun for mobile devices */
+  display: none;
+  }

@@ -14,6 +14,11 @@
 	}
 }
 
+article {
+	grid-column: 2 / 12 !important;
+    grid-row: 2;
+}
+
 :where(h1, h2, h3, h4, h5, h6, p, ul, ol, dl, pre, blockquote, form) {
 	overflow-wrap: break-word;
 	color: var(--color-text);
