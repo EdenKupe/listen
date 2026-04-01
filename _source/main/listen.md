@@ -14,7 +14,12 @@ Thank you for reading. <span class="strong-love"><span class="strong-love">I lov
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 <h3>4.27.2018</h3>
@@ -31,7 +36,12 @@ I hope you're doing OK. <span class="strong-love">I love you</span>.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+  <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>4.28.2018</h3>**
@@ -48,7 +58,12 @@ We're going home baby. It's going to be OK. <span class="strong-love">I love you
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>7.7.2018</h3>**
@@ -65,7 +80,12 @@ And we'll go back home. Don't forget to tie your shoes. I'll do my own.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>7.15.2018</h3>**
@@ -82,7 +102,12 @@ And for that, <span class="strong-love">I will always love you</span>.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>12.7.2018</h3>**
@@ -97,7 +122,12 @@ Hey. <span class="strong-love">I love you</span>. We're all going to die. It's g
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>12.20.2018</h3>**
@@ -114,7 +144,12 @@ Hey. <span class="strong-love">I love you</span>. We're all going to die. It's g
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>9.1.2020</h3>**
@@ -135,7 +170,12 @@ But most of all, I cried for you, suffering. I cried for you, waiting. I cried f
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>28.1.2020</h3>**
@@ -154,7 +194,12 @@ But can we love the jackal?
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>20.6.2020</h3>**
@@ -173,7 +218,12 @@ But can we love the jackal?
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>11.10.2020</h3>**
@@ -190,7 +240,12 @@ But can we love the jackal?
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>1.11.2020</h3>**
@@ -211,7 +266,12 @@ But can we love the jackal?
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>30.3.2021</h3>**
@@ -227,7 +287,12 @@ But can we love the jackal?
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>23.7.2021</h3>**
@@ -246,7 +311,12 @@ But can we love the jackal?
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>19.9.2021</h3>**
@@ -263,7 +333,12 @@ But can we love the jackal?
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>2.1.2022</h3>**
@@ -282,7 +357,12 @@ And I, <span class="strong-love">I love you</span> too.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>23.2.2022</h3>**
@@ -303,7 +383,12 @@ And I, <span class="strong-love">I love you</span> too.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>20.6.2022</h3>**
@@ -322,7 +407,12 @@ And I, <span class="strong-love">I love you</span> too.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>31.7.2022</h3>**
@@ -339,7 +429,12 @@ And I, <span class="strong-love">I love you</span> too.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>30.3.2023</h3>**
@@ -356,7 +451,12 @@ And I, <span class="strong-love">I love you</span> too.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>22.6.2023</h3>**
@@ -373,7 +473,12 @@ And I, <span class="strong-love">I love you</span> too.
 
 <div class="hr-container">
   <hr>
-  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+   <svg class="hr-icon" width="16" height="16" viewBox="0 0 16 16" fill="#b4654a" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+  <path d="M8 0L10 3L8 6L6 3L8 0Z" />
+  <path d="M8 10L10 13L8 16L6 13L8 10Z" />
+  <path d="M3 5L6 8L3 11L0 8L3 5Z" />
+  <path d="M13 5L16 8L13 11L10 8L13 5Z" />
+</svg>
 </div>
 
 **<h3>10.8.2023</h3>**
