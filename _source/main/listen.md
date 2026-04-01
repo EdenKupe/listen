@@ -285,7 +285,7 @@ And I, <span class="strong-love">I love you</span> too.
 
 **Listen**, for the last time: <span class="strong-love">I love you</span>.
 
-
+<p class="iconLink"><a target="_blank" href="https://icons8.com/icon/43252/sun">Sun</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
 
 <script>
     function randomLink(event) {

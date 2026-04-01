@@ -181,3 +181,8 @@ code {
 		margin-block-start: var(--space-sm);
 	}
 }
+
+.iconLink {
+	padding-top: 20px;
+    font-size: 15px;
+}
