@@ -1,0 +1,19 @@
+.hr-container {
+  text-align: center;
+  position: relative;
+  margin: 40px 0;
+  height: 0;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--color-text);
+}
+
+.hr-icon {
+background-color: var(--color-bg);
+    width: 50px;
+    padding: 0 10px;
+    position: relative;
+    top: -55px;
+}

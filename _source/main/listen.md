@@ -12,6 +12,11 @@ More than anything, "Listen," is long. <a onclick="randomLink(event)" href="#">C
 
 Thank you for reading. <span class="strong-love"><span class="strong-love">I love you</span></span>.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 <h3>4.27.2018</h3>
 
 **Listen.** A few weeks ago, it was the anniversary of me changing my career path. A year since I started learning a whole new trade and to dabble in several others. I've learnt a lot of stuff but perhaps the most important thing was not a new revelation but rather an affirmation of something I had felt for a long time: knowledge, like many things in nature, is as poisonous as it is healthy. Think of silver or garlic or certain chemicals; the touch of Eir is within these things but too much of them can overload you and reverse the scales. In the case of knowledge, it's more of a case of Paean than Eir. Knowledge heals the other faculties, just like Paean heals the other gods. It fortifies your resolve, your courage, your intellect, your self-assurance. Too much of it does not reverse the scales but it does become poisonous, supercharging those traits. In short, knowledge easily makes you too much to handle, both in an inwards sense and to your surroundings.
@@ -23,6 +28,11 @@ Thank you for reading. <span class="strong-love"><span class="strong-love">I lov
 I don't know what to do with any of this but I know that coming to terms with the poison of knowledge, with the pain of leaving, with the suspension of life, is the only way I can keep living. So that's what I'll try and do. I don't know if this is for you or good for you. I don't even know if this is for me or good for me. But it's what I have, it's the flimsy embankment on which I rebuilt my life after it fell apart. That is, my relationship with these ideas and feelings, not the ideas and feelings themselves, are the embankment. My position towards them is the foundation; a shift of the shoulder, a setting of the chest forward, a reaching of the neck, an intention towards.
 
 I hope you're doing OK. <span class="strong-love">I love you</span>.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>4.28.2018</h3>**
 
@@ -36,6 +46,11 @@ Thus, we converse on this, our road, you and I. Friends by virtue of the bus, of
 
 We're going home baby. It's going to be OK. <span class="strong-love">I love you</span>.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>7.7.2018</h3>**
 
 **Listen.** There was a time when you didn't know how to tie your shoes. These days, I do it without even thinking about it, just pausing my daily routine and performing a dexterous task I once didn't know how to accomplish. Someone taught you how to do that, even though there were no books. They taught you through their skill and their attention. They spent their time on me, leaning in from above (I assume, I don't remember. My mind isn't good at remembering times when I was shorter than people) and showing you something that they took for granted. Do you understand how hard that is? If you don't, try teaching a kid how to tie their shoes. Try to break down a task which you never think about while performing into its disparate elements. Try taking those elements and putting them together in a way that another person will understand. Then you will realize how much people that love you, love you.
@@ -47,6 +62,11 @@ We're going home baby. It's going to be OK. <span class="strong-love">I love you
 **Listen.** I don't yet know exactly how to go home but I know you'll show me the way one day. Take your time.I know that one day you will show me a silver path through a forest and I will smile and take it gladly. And that's why <span class="strong-love">I love you</span>. Because even though the day has not yet come for you to teach me, I know you'll one day do it. One day, you will show me the way out and I'll grab your hand and say "hey. thank you. <span class="strong-love">I love you</span>. Let's go".
 
 And we'll go back home. Don't forget to tie your shoes. I'll do my own.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>7.15.2018</h3>**
 
@@ -60,6 +80,11 @@ Friend, have you ever felt the flame that is recognizing an other? Have you ever
 
 And for that, <span class="strong-love">I will always love you</span>.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>12.7.2018</h3>**
 
 **Listen**. The wind weighs heavily on my mind. It's as if a new message has been encoded on it. Once, it only spoke of places far away, to me at least, of places that perhaps never existed or never will. Now, it's as if it tells me that this place, by which it means the entire world and my bodily existence, once existed but now has ceased to do so. It whispers to me, carrying on its breath adverbs, adjectives, and advances, of how fast the yet-to-be is coming, of how quickly the past sloughs away from the bones of the earth, of how lightly a city filled with lights now hovers on the horizon, teetering over an edge so large, so encompassing, that the city can't yet perceive it. It dances as it does so, the wind. It bounces between trees, spinning in their midst, running its hands through the leaves, all the while babbling ceaselessly about diminishing returns, plummeting prospects, bottomless wells, and a path which leads to them.
@@ -69,6 +94,11 @@ And for that, <span class="strong-love">I will always love you</span>.
 **Listen**. It's done but it's not done *yet*. There are still hundreds of heavy steps to take in the street, plodding along towards light. There are still a thousand content sighs to utter, sheltered in warmth. There are still a million gestures to make, while beautiful words spill from our mouths and move our hearts. There are still a billion little ways to move our face, our hands, our legs, our blood, our hair, there is still an infinity of moments in which to fall in love, to cry out in pain, to cry deeply from love, to have our breath snatched away, to have our ears sing with the sounds which bombard it. It's done but it's not done *yet* and until it's done, I'd like to spend my time with you. There are still hundreds of doorways filled with soft light, still a thousand windows spilling over with memories, still a million broken rays of light, still an infinity of memories to make. And when the time comes for what is already done to be done, we'll hold each other tight.
 
 Hey. <span class="strong-love">I love you</span>. We're all going to die. It's going to be alright.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>12.20.2018</h3>**
 
@@ -81,6 +111,11 @@ Hey. <span class="strong-love">I love you</span>. We're all going to die. It's g
 **Listen**. Despite all of this, it will be alright. The "um"s and the "uh"s will be replaced with words: metaphors, cliches, similes, synecdoches, expressions, twists of the tongue, turns of phrase. The voids will be gone and instead there will be teeth, sown, and soldiers, sprouting, and hills, sylvan crowned, and bulls, alabaster, and dreams, gossamer, and harps, singing, and snakes, hissing, and a face behind a door which doesn't open, a face which stares behind the wood at everything we do, a face which waits for us to open the door, which one day will open, a face which waits for you to finish what you're saying, no matter how long it takes.
 
 **Listen**. I'm listening.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>9.1.2020</h3>**
 
@@ -98,6 +133,11 @@ But most of all, I cried for you, suffering. I cried for you, waiting. I cried f
 
 <span class="strong-love">I love you</span>.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>28.1.2020</h3>**
 
 **Listen**. There was a warehouse full of boxes and a courtyard full of soldiers. There was the air of an ending and of freedom and of obstacles. Words were said. Hands were waved. Tasks were given. Inside the warehouse, there was heat but nothing like the heat they would soon feel. There was dust but nothing like the motes they would soon collect. There was the sensation of a coiled animal as their eyes locked briefly, understanding passing in the shooting rays of the outside sun like so many dancing flames across a cathedral hall. A cathedral of production, a church of efficiency. The stars are stigmata. There came an uncoiling, shy at first, hands fumbling around handles, ascertaining corners, figuring out surfaces. Figuring out pitch and vector and friction. Figuring out roughness, hands imagining future callouses, speaking now to biological systems so that they may speak to social systems. We can't do this alone. The uncoiling increased, exponentially feeding off its own burning, ATP madhouses consuming sugars at increasing levels, sending whirling signals to muscles to use use use, use what is being given to you, shoulder the weight, lift the cost, come together, push it out. Uncoil.
@@ -111,6 +151,11 @@ But most of all, I cried for you, suffering. I cried for you, waiting. I cried f
 **Listen**. <span class="strong-love">I love you</span>. A distance impossible stands before us and <span class="strong-love">I love you and have always loved you and will always love you</span>.
 
 But can we love the jackal?
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>20.6.2020</h3>**
 
@@ -126,6 +171,11 @@ But can we love the jackal?
 
 **Listen**. <span class="strong-love">I love you</span>. Happy summer solstice. 
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>11.10.2020</h3>**
 
 **Listen**. All you need to do to feel it is sing with other people. You'll notice that there's an internal buoyancy to you, a balance that you've been maintaining without noticing. When you sing, especially with others, your ears don't exactly turn off but they go to this place where they're focused on something beyond how you sound, beyond how others are sounding, towards a place where you all sound like something, together. It's almost like floating in water; your body does it as a reflex, assembling the air in ways that fit together, unlocking a multitude of doors that lead to a place called harmony.
@@ -137,6 +187,11 @@ But can we love the jackal?
 **Listen**. This road, the road of many voices joined in song, will always be open to you. There is no stain that can smudge the path from the bloody map which allows you that preternatural balance, that supernal key to harmony. There is no pencil that can amend the dotted line which links your throat to the throats of everyone else now alive, a line that only waits a vibratory foot to walk it. There is no fold or projection or other cartographical device that can make you forget how to get back to that place, that ethereal city square, where you and your brothers and sisters and children and mothers and fathers and uncles and aunts are raising your voices in song.
 
 **Listen**. Will you sing a song with me? It's a simple one. It goes:
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>1.11.2020</h3>**
 
@@ -154,6 +209,11 @@ But can we love the jackal?
 
 **Listen**. The moon, through a haze, looks on.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>30.3.2021</h3>**
 
 
@@ -164,6 +224,11 @@ But can we love the jackal?
 **Listen**. Yes, when you zoom out from the swamp in your mind (as I am asking/causing you to do now), devestation lies all around. But there's a wind playing in the remenants of the trees. There's a sound that's a composite, that's a lack, that's the background hum of things. There ground does not thrum; the sky does not scream. The smoke rises lazily towards the occluded sky and yes, the sun is not there but you know that it is. Rising now above the clouds, you see the true rain, the true cold, the true hum in the background of things: you see the stars. Often, when you have heard them described, people have said that the stars "burn on" but this is meaningless to you. For your perspective, from our perspective, the stars do not burn. The stars intrude. The stars look on. The stars peek. The stars contextualize. And so they do.
 
 **Listen**. What is left for monsters but to imagine their victims surviving them? In spite of everything, <span class="strong-love">I love you</span>.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>23.7.2021</h3>**
 
@@ -179,6 +244,11 @@ But can we love the jackal?
 
 <span class="strong-love">I love you</span>.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>19.9.2021</h3>**
 
 **Listen**. My car pulls up next to his in a traffic jam. Around us, there's a space, a reprise, between where we sit, baking on the tarmac, and where the skyscrapers begin. There's a bit of air, a bit of blue, a bit of space, but not too much. The windows are rolled up; it's scorching outside. Traffic is jammed to standstill, so I look to my right and then to my left, and that's where I see him. He's sitting in his car and he's looking straight, beyond the cars, beyond the tarmac, beyond the city even. He is looking into the horizon where, in a weird-loop which in certain ways is the only delimitation of the external world, turns back around into himself. He is looking at the back of his eyes, he is looking at the back of his skull. He is looking back in time. And he's crying. As soon a I notice that he's crying, my heart twists in my chest and all the things I wish I could tell him, that it will be OK, that life ends and that there's a freedom in that, come tumbling into my head. My hand, bypassing my so-called rational mind entirely, moves to the hot plastic of the door handle to open it. Of course I don't actually leave the car; the freeway is the domain of cars and the soft flesh of the human will only be tolerated directly on it in an emergency. Is this not an emergency, you might ask. I think so. But the cars don't. The people who planned the road didn't. And, most importantly, the heat and the asphalt and the skyscrapers and yes, ultimately and perhaps most sadly, the sky doesn't either. So I stay in my car and he stays in his and he cries and I can't really do anything about it.
@@ -190,6 +260,11 @@ But can we love the jackal?
 **Listen**. To think that a miracle requires divinity is to misunderstand the recipient of the message for its sender. Miracles care nothing for the one who causes them; they are ambivalent to their creature. Miracles are all about those they serve and those for whom they are created. Therefore, their creator is unnecessary. Yes, they might exist. But what difference does it make? What does it matter from where the manna comes from when all you can think about is that you're no longer hungry? From whence comes the dove with the olive branch? Who cares? All that matters is that the promise that the sea, the endless, cursed, salted, sterile sea, might one day end. This is what's collected in my concrete oases: miracles. They might have been created in the urban forge, wrought by fires that are stoked by the energy released each by tens of thousands of footsteps on the main street. I might have sent them to myself, like a missive that pings around the world only to gently kiss you on the back of your head is it returns. They, my miracles, might be conjured by a wizard, or created by a god, or written by a poet, but what matters it that they are my miracles, don't you see? What matters is that the water flows onto my forehead, the breeze strokes my shoulders, the broken shadows of the leaves dance upon my face, and cruel summer and cruel seas and the never-ending sigil of the freeway is banished.
 
 **Listen**. Do you see? What matters is not that you're reading this. What matters is that <span class="strong-love">I love you</span> and you, I know, I can tell, I can feel, you love me. What matters is that there's a place beyond the sea. The song of doves surrounds us when we embrace. In your voice I hear their feathers fluttering. In your smile I smell the olive branch. In your eyes I can read the message, the miracle, the song, the prophecy, that the sea is about to end.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>2.1.2022</h3>**
 
@@ -204,6 +279,11 @@ But can we love the jackal?
 **Listen**. Beyond the salt, the cleansing acridity, the aquatic sulfur, the distant sea, beneath the dirt, the storing solidity, the musty petrichor, the distant earth, I know, I can tell, I can feel, I can remember, I can recount, I sense, that you love me.
 
 And I, <span class="strong-love">I love you</span> too.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>23.2.2022</h3>**
 
@@ -221,6 +301,11 @@ And I, <span class="strong-love">I love you</span> too.
 
 <span class="strong-love">I love you</span>.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>20.6.2022</h3>**
 
 **Listen**. The emotional grenade spins through the air like a sycamore seed. One moment I'll be walking along, wrapped in my routine like in a thick jacket (although it's already quite sweltering) and, suddenly, a sibling searing to the sun's scorch is set ablaze in my heart. My neck, usually a mere scaffold, albeit a critical one, immediately stretches, like an antenna pointing at the world. Signal is received: the smile of a stranger as she laughs at a completely unknowable joke (that is, unknowable to me), a loving caress on a far away cheek, the laughter of a child at play, the bubbling of a water fountain, its soliloquy expounding on the virtues of reflecting the light on the wall behind it. The world comes alive with gesture and I am a captured audience, swaying in tune with the choreography of the material.
@@ -235,6 +320,11 @@ And I, <span class="strong-love">I love you</span> too.
 
 **Listen**. I am only here to tell you that <span class="strong-love">I love you</span> and to mean it.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>31.7.2022</h3>**
 
 **Listen**. Suddenly, you’re highlighted by the sunlight. It has congealed and is now marmoreal, affected by some unknown metamorphosis. It’s like a mold, a cast, a glyph, an empty, bright engraving into which you are poured. You look down and the bird’s feather is outlined in green, a sharp, acerbic border to its otherwise affluent shimmering. You feel your own green outline, right at the edge of your skin, and the sunlight is beating down on it from a sun transformed. Your own, internal plumage, as if calling to the bird that lost the feather, is unfurling inside of you, swaying mightily under the reconfigured light. Like a ship in its birth, you feel the countless photons bombarding your outer shell with hammers of energy, with gavels of conductivity, scaffolding you with umbral constructions, nuclear stevedores, semaphore smiths of sea-worthy flesh.
@@ -246,6 +336,11 @@ And I, <span class="strong-love">I love you</span> too.
 **Listen**. The past is crawling over your skin. Looking around can be like swirling a liquid over your tongue, exciting its flavors from within its mercurial center. It feels like a second skin, like diving in a suit, like running your hand through a rushing waterfall. It feels like everything is supercharged and suddenly, the green of the feather tinkles in an apartment window;the cat’s gash hides behind dustbins;the lazy fan is running over us like the shadow of a cloud;the sand is pouring in from the eyes and the mouths of the store windows;the fence circles the city, separating it from the skin;and we are, now, instantly, and forever, climbing over that always-hill.
 
 **Listen**. I write “you” and “me” and “us” but I might just as well be writting about “we”.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>30.3.2023</h3>**
 
@@ -259,6 +354,11 @@ And I, <span class="strong-love">I love you</span> too.
 
 **Listen**. Of course I continue on. Of course there are more things to do. Of course <span class="strong-love">I love you</span>. But when I stare up at the moon and find it crescented in my direction, I can't help but feel that everything, every single thing, is slipping away from me and there's nothing I can do but try to hold on tighter to the night.
 
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
+
 **<h3>22.6.2023</h3>**
 
 **Listen**. Somewhere in the city, a cat finds a quiet place to lay down for the final time. The leaves of a deep bush and the flickering lights of the TVs spilling out from the windows of the apartment complex semaphore it to sleep. The lights sing and code everything that happened during the cat's life into a homily. Fights for food, hours languishing in the sun, the way the grass waves in the late afternoon breeze, losing their eye, the taste of blessed, old water. All are channeled through the clicking of switches, the hum of refrigerators, the semi-cohesive story of the building that has towered over them for all their lives, like a harsh, loving, distant father.
@@ -270,6 +370,11 @@ And I, <span class="strong-love">I love you</span> too.
 **Listen**. Elsewhere, conversations unfurl between eager mouths, eyes dreaming of embrace, stomachs hoping for release, skin longing for validation. This tension spins off into momentums, goodbyes and first-meetings, deepenings and relaxations that pock the city like a thousand gravity wells, trapping and then releasing all too familiar bodies across the sable trajectory of night.
 
 **Listen**. Somewhere in the city, the life of a cat ends. Elsewhere, life continues to whirl in its rags. And through it all, <span class="strong-love">I love you</span>, cat.
+
+<div class="hr-container">
+  <hr>
+  <img src="../assets/images/icons/ear.png" alt="divider icon" class="hr-icon">
+</div>
 
 **<h3>10.8.2023</h3>**
 
@@ -285,7 +390,7 @@ And I, <span class="strong-love">I love you</span> too.
 
 **Listen**, for the last time: <span class="strong-love">I love you</span>.
 
-<p class="iconLink"><a target="_blank" href="https://icons8.com/icon/43252/sun">Sun</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
+<p class="iconLink">Icons by <a target="_blank" href="https://icons8.com">Icons8</a></p>
 
 <script>
     function randomLink(event) {
