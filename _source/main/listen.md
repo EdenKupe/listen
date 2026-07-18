@@ -495,6 +495,46 @@ And I, <span class="strong-love">I love you</span> too.
 
 **Listen**, for the last time: <span class="strong-love">I love you</span>.
 
+**<h3>18.7.2026</h3>**
+
+**Listen**. This is a coda in the sense that a coda is an echo. Echoes can be layers. Echoes can be waves. Echoes can be metadata or contain it, a map and a scale, the road and the wind that blows down it. This is an echo, from throats and fingers and hands that technically belong to one person, me, but are made a multitude, pluralized, by time. By which I mean I am writing this from always. By which I mean this is the remnant, the dredges, the echoes of people I've been in between. In between arriving and leaving, in between here and away, in between then and whence, I existed. And echo still. All the way here, across strange waves and pulsing seas, to you. 
+
+**Listen**. Have you ever flown apart, atoms swirling in a centrifuge of place? Have you ever felt the weak and strong forces that bind you together buckle and flex and heave and relax, twirling down a drain of dislocation? Have you ever stopped to touch a tree, or a paving stone, or a bench, and felt the day's heat climb up your fingers, leaving behind nothing much? Have you ever remembered? Have you ever travelled down a skein of versions of yourself, a luminous engine decoding point of view? Have you ever unlocked, with your tongue, using words like a key slithering on penny-flavored pins, a hundred (or perhaps more) nights of meaning and intention and relation just by speaking a sentence, by turning a door, by turning to leave, by not showing up, by taking a corner, by waking up later, by taking a shower, by making a bed?
+
+**Listen**. This is a coda as long as we agree that nothing ever ends so nothing can be capped, so nothing can be finished. The ear still opens, like a cauliflower tuned towards the moon. The jackals still run in pairs, low over grass untended. The heart still drinks in corner-light unfolded, in shadows embracing. As long as we can agree on that, as long as we can agree that I am not falling apart, that the echoes repeat enough to make some sense, that if I write a different word on a piece of paper every day a life will emerge, as long as we can agree on that, then this is a coda and I am ready to say goodbye.
+
+**Listen**. There really is no such feeling as a heart bursting asunder.
+
+**Listen**. I don't know if I've ever chosen anything correctly and I don't want to care.
+
+**Listen**. How long can we go on like this, pretending the future has to matter?
+
+**Listen**. What do we do with the waste of our lives?
+
+**Listen**. How much loss do we really need, when love would do much better?
+
+**Listen**. Is there no limit to the cruelty of time?
+
+**Listen**. Can an echo take root in the refuge of time?
+
+**Listen**. I'm not sure I still know how to break from a rhythm.
+
+**Listen**. I wish I could go back and undo at least some of this life.
+
+**Listen**. I'll keep coming back even if that's just because I don't know how to not.
+
+**Listen**. There's still time to remember what's important.
+
+**Listen**. I'm sorry.
+
+**Listen**. I love you.
+
+**Listen**. And I always will.
+
+**Listen**. There is no last time. 
+
+**Listen**. This is a coda in the sense that a coda is an echo.
+
 <p class="iconLink">Icons by <a target="_blank" href="https://icons8.com">Icons8</a></p>
 
 <script>
